@@ -14,4 +14,12 @@
             }
         }
     }
+    .navHeader {
+        display: flex;
+        align-items: center;
+        span {
+            font-size: 1.2rem;
+            margin-left: 15px;
+        }
+    }
 }
